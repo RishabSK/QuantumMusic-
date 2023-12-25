@@ -1,0 +1,17 @@
+
+
+.bu::-webkit-scrollbar {
+    width: 12px;
+  }
+  .bu {
+    scrollbar-width: thin;
+    scrollbar-color: lime;
+  }
+.but:hover {
+    background-color: purple;
+    border-radius: 6px;
+    }
+    .se::placeholder{
+        color:greenyellow;
+    }
+   
